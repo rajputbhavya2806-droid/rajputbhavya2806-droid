@@ -1,16 +1,26 @@
-## Hi there 👋
+# rajputbhavya2806-droid
 
-<!--
-**rajputbhavya2806-droid/rajputbhavya2806-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Bhavya 👋
 
-Here are some ideas to get you started:
+I’m a passionate learner and developer working on frontend projects, JavaScript, and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+- [fsd_Bhavya364](https://github.com/rajputbhavya2806-droid/fsd_Bhavya364)
+- [java-script](https://github.com/rajputbhavya2806-droid/java-script)
+
+## 🧠 Skills
+- HTML
+- CSS
+- JavaScript
+- Frontend Development
+- Web Design
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajputbhavya2806-droid&show_icons=true&theme=radical)
+
+## 📫 Connect
+- GitHub: https://github.com/rajputbhavya2806-droid
+
+Thanks for visiting my profile! 😊
